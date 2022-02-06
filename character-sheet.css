@@ -10195,3 +10195,7 @@ main#pr-html main#pr-body .repcontrol .repcontrol_edit {
 main#pr-html main#pr-body .repcontrol .repcontrol_add {
   padding: 0 1em;
 }
+
+main#pr-html main#pr-body summary {
+  display: list-item;
+}
